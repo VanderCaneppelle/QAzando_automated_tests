@@ -1,0 +1,7 @@
+{
+  "name": "Vander Caneppelle",
+  "validEmail": "vandercaneppelle@outlook.com",
+  "invalidEmail": "vander canepellle",
+  "validPassword": "123456",
+  "invalidPassword": "1234"
+}

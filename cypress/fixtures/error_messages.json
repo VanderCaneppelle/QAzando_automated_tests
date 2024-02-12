@@ -1,0 +1,5 @@
+{
+  "invalidFirstName": "O campo nome deve ser prenchido",
+  "invalidEmail": "O campo e-mail deve ser prenchido corretamente",
+  "invalidPassword": "O campo senha deve ter pelo menos 6 dígitos"
+}
